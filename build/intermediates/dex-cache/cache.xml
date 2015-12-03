@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\newProject\ChatDemoUI\libs\TencentLocationSDK_v4.2.0_r150819.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97ad9d5429bd0c28493102fd7a3fcd61dd36e32f">
+        <dex dex="E:\newProject\ChatDemoUI\build\intermediates\pre-dexed\debug\TencentLocationSDK_v4.2.0_r150819-cfe7cbaa8c66584191a5d18a1f8d60afcd182639.jar" />
+    </item>
+
+</items>
